@@ -31,14 +31,22 @@
  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
 
 ``` 
-[![The Blue Alliance](https://img.shields.io/badge/The_Blue_Alliance-d12727?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/972)
-[![Website](https://img.shields.io/badge/Website-005596?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ironclaw972.org)
+[![The Blue Alliance](https://img.shields.io/badge/The_Blue_Alliance-blue?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/972)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ironclaw972.org)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ironclawrobotics)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ironclaw972)
 
-  # Los Gatos High School Robotics • Los Gatos, CA
+<h2>Iron Claw 972 • Los Gatos High School, CA<h2>
 
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![WPILib](https://img.shields.io/badge/WPILib-2026-005596?style=flat-square&logo=first&logoColor=white)](https://docs.wpilib.org/)
+[![AdvantageKit](https://img.shields.io/badge/AdvantageKit-Log_%26_Replay-4CAF50?style=flat-square)](https://github.com/Mechanical-Advantage/AdvantageKit)
+[![PathPlanner](https://img.shields.io/badge/PathPlanner-Lib-00A8E8?style=flat-square)](https://pathplanner.dev/)
+[![CTRE Phoenix 6](https://img.shields.io/badge/CTRE-Phoenix_6-E31B23?style=flat-square)](https://v6.docs.ctr-electronics.com/)
+[![Rust](https://img.shields.io/badge/Rust-CLI-DEA584?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 </div>
+
+---
 
 * **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) (AdvantageKit log-replay, PathPlanner, Phoenix 6)
 * **Vision:** [`Coprocessor-Vision`](https://github.com/iron-claw-972/Coprocessor-Vision) (Offboard detection models)
