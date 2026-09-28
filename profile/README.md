@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 
  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\ 
@@ -28,13 +30,15 @@
 ( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
 
-```
+``` 
+[![The Blue Alliance](https://img.shields.io/badge/The_Blue_Alliance-d12727?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/972)
+[![Website](https://img.shields.io/badge/Website-005596?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ironclaw972.org)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ironclaw972)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ironclaw972)
 
-Software home of **FRC Team 972 (Iron Claw)**: Los Gatos High School, CA.
+  # Los Gatos High School Robotics • Los Gatos, CA
 
-**[The Blue Alliance](https://www.thebluealliance.com/team/972)** • **[Website](https://ironclaw972.org)** • **[YouTube](https://www.youtube.com/@ironclawrobotics)** • **[Instagram](https://www.instagram.com/ironclawrobotics)** 
-
----
+</div>
 
 * **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) (AdvantageKit log-replay, PathPlanner, Phoenix 6)
 * **Vision:** [`Coprocessor-Vision`](https://github.com/iron-claw-972/Coprocessor-Vision) (Offboard detection models)
