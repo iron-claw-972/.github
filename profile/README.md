@@ -37,7 +37,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ironclaw972)
 
 <h2>Iron Claw 972 • Los Gatos High School, CA<h2>
-
+ 
+<p><sub><em>Building reliable robot code, modular IO systems, and custom developer tools for FRC Team 972.</em></p>
+ 
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![WPILib](https://img.shields.io/badge/WPILib-2026-005596?style=flat-square&logo=first&logoColor=white)](https://docs.wpilib.org/)
 [![AdvantageKit](https://img.shields.io/badge/AdvantageKit-Log_%26_Replay-4CAF50?style=flat-square)](https://github.com/Mechanical-Advantage/AdvantageKit)
