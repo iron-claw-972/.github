@@ -36,9 +36,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ironclawrobotics)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ironclaw972)
 
-<h2>Iron Claw 972 • Los Gatos High School, CA<h2>
+<h2>Iron Claw 972 • Los Gatos High School, CA</h2>
  
-<p><sub><em>Building reliable robot code, modular IO systems, and custom developer tools for FRC Team 972.</em></p>
+<p><small><em>Building reliable robot code, modular IO systems, and custom developer tools for FRC Team 972.</em></small></p>
  
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![WPILib](https://img.shields.io/badge/WPILib-2026-005596?style=flat-square&logo=first&logoColor=white)](https://docs.wpilib.org/)
@@ -50,8 +50,7 @@
 
 ---
 
-* **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) [![Build Status](https://img.shields.io/github/actions/workflow/status/iron-claw-972/FRC2026/build.yml?style=flat-square&logo=githubactions&logoColor=white&label=build)](https://github.com/iron-claw-972/FRC2026/actions) (AdvantageKit log-replay architecture, PathPlanner, Phoenix 6)
- 
+* **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) <a href="https://github.com/iron-claw-972/FRC2026/actions"><img src="https://img.shields.io/github/actions/workflow/status/iron-claw-972/FRC2026/build.yml?style=flat-square&logo=githubactions&logoColor=white&label=build" align="absmiddle"></a> (AdvantageKit log-replay architecture, PathPlanner, Phoenix 6)
 * **Vision:** [`Coprocessor-Vision`](https://github.com/iron-claw-972/Coprocessor-Vision) (Offboard detection models)
 * **Code Generator:** [`subsystem-generator`](https://github.com/iron-claw-972/subsystem-generator) (Rust CLI for subsystem boilerplate)
 * **Software Onboarding:** [`Activities-2026`](https://github.com/iron-claw-972/Activities-2026) (Fall training curriculum)
