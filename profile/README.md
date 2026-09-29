@@ -51,6 +51,7 @@
 ---
 
 * **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) (AdvantageKit log-replay, PathPlanner, Phoenix 6)
+* * **Current Robot:** [`FRC2026`](https://github.com/iron-claw-972/FRC2026) [![Build Status](https://github.com/iron-claw-972/FRC2026/actions/workflows/build.yml/badge.svg)](https://github.com/iron-claw-972/FRC2026/actions) (AdvantageKit log-replay, PathPlanner, Phoenix 6)
 * **Vision:** [`Coprocessor-Vision`](https://github.com/iron-claw-972/Coprocessor-Vision) (Offboard detection models)
 * **Code Generator:** [`subsystem-generator`](https://github.com/iron-claw-972/subsystem-generator) (Rust CLI for subsystem boilerplate)
 * **Software Onboarding:** [`Activities-2026`](https://github.com/iron-claw-972/Activities-2026) (Fall training curriculum)
